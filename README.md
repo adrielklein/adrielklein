@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adrielklein
-- 👀 I’m interested in ... building graphical user interfaces and applications that serve a great purpose.
-- 🌱 I’m currently learning ... more front end skills, design, algorithms
-- 💞️ I’m looking to collaborate on ... exciting, useful projects
+- 👀 I’m interested in ... building web and mobile applications that simplify and enhance lives.
 - 📫 How to reach me ... adrielmklein@gmail.com
 - 🦍 Also check out [my dev blog](https://adrielklein.github.io/)
 
