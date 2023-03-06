@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... more front end skills, design, algorithms
 - 💞️ I’m looking to collaborate on ... exciting, useful projects
 - 📫 How to reach me ... adrielmklein@gmail.com
+- 🖋️ Also check out [my dev blog](https://adrielklein.github.io/)
 
 <!---
 adrielklein/adrielklein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
